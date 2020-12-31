@@ -1,4 +1,4 @@
-this App outputs to the console a random number of created shapes according to the condition of the test task.
+This App outputs to the console a random number of created shapes according to the condition of the test task.
 
 Entry point - class Main.
 
